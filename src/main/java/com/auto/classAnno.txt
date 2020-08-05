@@ -1,0 +1,12 @@
+
+entity:@Setter
+entity:@Getter
+
+mapper:@Repository
+mapper:@Mapper
+
+service:@Service
+
+serviceImpl:@Service
+
+controller:@RestController
